@@ -82,6 +82,21 @@ class TestStringProcessor(unittest.TestCase):
         r5=index.count_vowels("MESSI")
         self.assertNotEqual(r5,3)
         
+    def test_true(self):
+        r1=index.count_vowels("AEIOU")
+        self.assertTrue(r1 == 5)
+        
+        r2=index.word_count("Tree Plantation Is Good")
+        self.assertTrue(r2 == 4)
+        
+        r3=index.count_vowels("Everyone should perform the five daily prayers")
+        self.assertTrue(r3 == 15)
+        
+        r3=index.reverse_word("sreyarp yliad evif eht mrofrep dluohs enoyrevE")
+        self.assertTrue(r3 == 15)
+        
+        
+        
     def test_raises(self):
         with self.assertRaises(TypeError):
             index.reverse_word(123)
