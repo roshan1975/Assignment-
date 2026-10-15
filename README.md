@@ -31,9 +31,9 @@ Check the terminal output to see whether the tests pass or fail.
 
 - How to create and import Python functions from another file.
 
-- How to write unit tests using Python's unittest module.
+- How to write unit tests using Python's **unittest module.**
 
-- How to use assertions such as *assertEqual(), assertTrue(), assertFalse(), and assertRaises().*
+- How to use assertions such as **assertEqual(), assertTrue(), assertFalse(), and assertRaises().**
 
 ## 6. Tools I Used
 
@@ -47,6 +47,6 @@ Check the terminal output to see whether the tests pass or fail.
 
 ## 7. About Me
 
-Hi! I'm Roshan, a Class 7 student learning Python programming , software testing , and GitHub. I enjoy building small projects and improving my coding skills.
+Hi! I'm Roshan, a Class 7 student learning **Python programming , software testing , and GitHub.** I enjoy building small projects and improving my coding skills.
 
 I created this project as part of my programming practice to improve my coding and problem-solving skills.
