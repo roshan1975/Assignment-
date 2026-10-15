@@ -29,21 +29,21 @@ Check the terminal output to see whether the tests pass or fail.
 
 ## 5. What Did I Learn?
 
--How to create and import Python functions from another file.
+- How to create and import Python functions from another file.
 
--How to write unit tests using Python's unittest module.
+- How to write unit tests using Python's unittest module.
 
--How to use assertions such as assertEqual(), assertTrue(), assertFalse(), and assertRaises().
+- How to use assertions such as assertEqual(), assertTrue(), assertFalse(), and assertRaises().
 
 ## 6. Tools I Used
 
--Programming Language: Python
+- Programming Language: Python
 
--Testing Framework: unittest
+- Testing Framework: unittest
 
--Code Editor: Visual Studio Code
+- Code Editor: Visual Studio Code
 
--Version Control: Git and GitHub
+- Version Control: Git and GitHub
 
 ## 7. About Me
 
