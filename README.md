@@ -12,19 +12,19 @@ I made this project for learning and practicing Python programming. I wanted to 
 
 ## 4. How to Run It
 
-## Step 1: 
+# Step 1: 
 Open the project folder in VS Code.
 
-## Step 2: 
+# Step 2: 
 Make sure index.py and test.py are in the same folder.
 
-## Step 3: 
+# Step 3: 
 Run the main program using the terminal.
 
-## Step 4:
+# Step 4:
 Run the unit tests
 
-## Step 5:
+# Step 5:
 Check the terminal output to see whether the tests pass or fail.
 
 ## 5. What Did I Learn?
@@ -47,6 +47,6 @@ Check the terminal output to see whether the tests pass or fail.
 
 ## 7. About Me
 
-Hi! I'm Roshan, a Class 7 student learning Python programming ,software testing , and GitHub. I enjoy building small projects and improving my coding skills.
+Hi! I'm Roshan, a Class 7 student learning Python programming , software testing , and GitHub. I enjoy building small projects and improving my coding skills.
 
 I created this project as part of my programming practice to improve my coding and problem-solving skills.
