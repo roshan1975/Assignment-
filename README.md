@@ -1,6 +1,6 @@
 ## 1. Project Title
 
-# ***String Processor — Unit Testing Project***
+***String Processor — Unit Testing Project***
 
 ## 2. What Is This Project?
 
@@ -33,7 +33,7 @@ Check the terminal output to see whether the tests pass or fail.
 
 - How to write unit tests using Python's unittest module.
 
-- How to use assertions such as assertEqual(), assertTrue(), assertFalse(), and assertRaises().
+- How to use assertions such as *assertEqual(), assertTrue(), assertFalse(), and assertRaises().*
 
 ## 6. Tools I Used
 
