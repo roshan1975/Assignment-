@@ -1,6 +1,6 @@
 ## 1. Project Title
 
-## ***String Processor — Unit Testing Project***
+# ***String Processor — Unit Testing Project***
 
 ## 2. What Is This Project?
 
