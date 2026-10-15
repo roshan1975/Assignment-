@@ -1,6 +1,6 @@
 ## 1. Project Title
 
-***String Processor — Unit Testing Project***
+## ***String Processor — Unit Testing Project***
 
 ## 2. What Is This Project?
 
@@ -12,19 +12,19 @@ I made this project for learning and practicing Python programming. I wanted to 
 
 ## 4. How to Run It
 
-# Step 1: 
+### Step 1: 
 Open the project folder in VS Code.
 
-# Step 2: 
+### Step 2: 
 Make sure index.py and test.py are in the same folder.
 
-# Step 3: 
+### Step 3: 
 Run the main program using the terminal.
 
-# Step 4:
+### Step 4:
 Run the unit tests
 
-# Step 5:
+### Step 5:
 Check the terminal output to see whether the tests pass or fail.
 
 ## 5. What Did I Learn?
